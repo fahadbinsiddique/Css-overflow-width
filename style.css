@@ -1,0 +1,21 @@
+.p1{
+    border: 2px solid coral;
+    width: 400px;
+    margin:auto  ;
+}
+.p2{
+    border: 2px solid tomato;
+    max-width: 400px;
+    margin: auto;
+    overflow: auto;
+}
+.p3{
+    height: 100px;
+    width: 400px;
+    border: 2px saddlebrown solid;
+    overflow: scroll;
+    margin: auto;
+}
+#fahad{
+    margin-top: 40px;
+}
